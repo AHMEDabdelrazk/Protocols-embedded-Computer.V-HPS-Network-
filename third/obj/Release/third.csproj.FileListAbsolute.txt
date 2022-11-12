@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\third\third\bin\Release\third.exe.config
+C:\Users\user\source\repos\third\third\bin\Release\third.exe
+C:\Users\user\source\repos\third\third\bin\Release\third.pdb
+C:\Users\user\source\repos\third\third\obj\Release\third.Form1.resources
+C:\Users\user\source\repos\third\third\obj\Release\third.Form2.resources
+C:\Users\user\source\repos\third\third\obj\Release\third.Form3.resources
+C:\Users\user\source\repos\third\third\obj\Release\third.Properties.Resources.resources
+C:\Users\user\source\repos\third\third\obj\Release\third.csproj.GenerateResource.cache
+C:\Users\user\source\repos\third\third\obj\Release\third.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\third\third\obj\Release\third.exe
+C:\Users\user\source\repos\third\third\obj\Release\third.pdb
+C:\Users\user\source\repos\third\third\obj\Release\third.csprojAssemblyReference.cache
+C:\Users\user\source\repos\third\third\obj\Release\third.Form4.resources
+C:\Users\user\source\repos\third\third\obj\Release\third.Form5.resources
